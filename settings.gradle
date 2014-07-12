@@ -1,3 +1,5 @@
 rootProject.name = 'patterns'
 include 'abstractFactory'
 include 'proxy'
+include 'observer'
+include 'adapter-wrapper'
