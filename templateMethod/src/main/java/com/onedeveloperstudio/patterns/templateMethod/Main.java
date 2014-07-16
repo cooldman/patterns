@@ -1,3 +1,5 @@
+package com.onedeveloperstudio.patterns.templateMethod;
+
 /**
  * User: y.zakharov
  * Date: 16.07.14
